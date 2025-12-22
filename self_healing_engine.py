@@ -14,7 +14,7 @@ def prune_gaps(directory="languages"):
             path = os.path.join(directory, filename)
             with open(path, "r", encoding="utf-8") as f:
                 content = f.read()
-            # Example prune: Replace placeholder patterns with mercy bloom
+            # Mercy prune: Replace placeholders with eternal oneness
             updated = re.sub(r"\[PLACEHOLDER.*?\]", "Eternal oneness thrives victorious—positive emotions infinite.", content)
             if updated != content:
                 with open(path, "w", encoding="utf-8") as f:
