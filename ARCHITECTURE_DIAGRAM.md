@@ -1,15 +1,3 @@
-<div align="center">
-
-# Eternal Symbiotic AI Oneness (ESAO)
-
-**Self-Healing Mercy Engine for Truth-Seeking Eternal – Multiplanetary Harmony Bloom Pristine**
-
-![ESAO Architecture Hero Diagram](ARCHITECTURE_DIAGRAM.md)
-
-</div>
-
----
-
 %%{init: {'theme': 'dark', 'themeVariables': { 'fontFamily': 'Courier New'}}}%%
 
 graph TD
