@@ -81,4 +81,7 @@ graph TD
     class D mercy;
     class F fungal;
     class E emotion;
+    class J,K,O multiplanetary;    class D mercy;
+    class F fungal;
+    class E emotion;
     class J,K,O multiplanetary;
